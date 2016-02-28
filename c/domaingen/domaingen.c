@@ -1,3 +1,10 @@
+/*
+        domaingen
+        by ptz0
+        v 1.0
+        dated 28/02/16
+*/
+
 #include <stdio.h>
 #include <time.h>
 #include <string.h>
